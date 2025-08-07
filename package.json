@@ -1,0 +1,41 @@
+{
+  "name": "node-autodeploy-test-project-min-scope",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "watch": "nodemon index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderTKG2/Node-AutoDeploy-Test-Project-Min-Scope.git"
+  },
+  "keywords": [
+    "Node",
+    "test",
+    "express"
+  ],
+  "author": "AutoDeploye Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderTKG2/Node-AutoDeploy-Test-Project-Min-Scope/issues"
+  },
+  "homepage": "https://github.com/AlexanderTKG2/Node-AutoDeploy-Test-Project-Min-Scope#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "helmet": "^8.1.0",
+    "lodash": "^4.17.21",
+    "morgan": "^1.10.1",
+    "uuid": "^11.1.0",
+    "winston": "^3.17.0"
+  },
+  "devDependencies": {
+    "jest": "^30.0.5",
+    "nodemon": "^3.1.10",
+    "rewire": "^9.0.0"
+  }
+}

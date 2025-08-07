@@ -1,0 +1,26 @@
+{
+    "employees": [
+        {
+            "firstName": "Nestr",
+            "lastName": "Alonzo",
+            "position": "Developer",
+            "salary": 1234.22,
+            "workEmail": "email@exa2pl.com",
+            "personalEmail": "emal@gmil.com",
+            "personalPhone": "1224521789",
+            "country": "0",
+            "id": "e1e1ffec-ce7a-46ff-a423-36dc70d97c09"
+        },
+        {
+            "firstName": "Nestr",
+            "lastName": "Alonzo",
+            "position": "Developer",
+            "salary": 1234.22,
+            "workEmail": "email@exa2pl.com",
+            "personalEmail": "emal@gmil.com",
+            "personalPhone": "1224521789",
+            "country": "0",
+            "id": "8589ae93-b17e-4290-80f5-3927df724a82"
+        }
+    ]
+}
